@@ -9,7 +9,7 @@ To install the dependencies, follow these steps:
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the project using `python main.py`.
 
-## Usage
+## Usage [will be updated soon]
 
 To use the project, follow these steps:
 
