@@ -1,6 +1,8 @@
 # LBLIS
 Advancing LiDAR Intensity Simulation through Learning with Novel Physics-Based Modalities
 
+[Paper in IEEE Transaction on Intelligent Transportation Systems](https://ieeexplore.ieee.org/document/10871189)
+
 ## Installation
 
 To install the dependencies, follow these steps:
